@@ -12,10 +12,6 @@
 			href: "/projects"
 		},
 		{
-			label: "Music",
-			href: "/music",
-		},
-		{
 			label: "Photograhy",
 			href: "/photos"
 		}
@@ -83,9 +79,6 @@
 				 <div class="flex flex-wrap justify-center gap-6 mt-6">
 					<a href="/projects" class="w-40 h-20 bg-gray-800 text-white flex items-center justify-center rounded-lg shadow-lg hover:bg-gray-700 transition duration-300">
 						Projects
-					</a>
-					<a href="/music" class="w-40 h-20 bg-gray-800 text-white flex items-center justify-center rounded-lg shadow-lg hover:bg-gray-700 transition duration-300">
-						Music
 					</a>
 					<a href="/photography" class="w-40 h-20 bg-gray-800 text-white flex items-center justify-center rounded-lg shadow-lg hover:bg-gray-700 transition duration-300">
 						Photography
